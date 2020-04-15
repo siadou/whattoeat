@@ -2,7 +2,7 @@
  * @Description: In User Settings Edit
  * @Author: your name
  * @Date: 2019-09-24 17:30:43
- * @LastEditTime: 2019-09-25 17:01:43
+ * @LastEditTime: 2020-04-13 15:24:22
  * @LastEditors: Please set LastEditors
  */
 export default {
@@ -18,6 +18,10 @@ export default {
     '皮皮虾',
     '大虾',
     '小黄鱼',
-    '带鱼'
+    '带鱼',
+    '鱼片',
+    '鱿鱼',
+    '鲈鱼',
+    '扇贝'
   ]
 }
